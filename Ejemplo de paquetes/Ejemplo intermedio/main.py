@@ -7,4 +7,4 @@ smart = Smartphone("Nokia", "Lumia 920", "Naranja Web", "3122324", ["Evernote", 
 
 smart.marcar("3452123523")
 smart.recibir("885967323")
-smart.iniciarApps("Evernote")
+smart.iniciarApps("Evernote")s
